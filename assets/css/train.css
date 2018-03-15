@@ -1,0 +1,64 @@
+h2{
+	font-size: 50px;
+	font-family: 'Caveat', cursive;
+	margin-top: 20px;
+	text-align:center;
+}
+
+h3{
+	font-family: 'Caveat', cursive;
+	font-size: 50px;
+	margin-top: 50px;
+	text-align:center;
+}
+
+form{
+	font-family: 'Caveat', cursive;
+	font-size: 25px;
+	margin: 100px;
+	margin-top: 20px;
+}	
+
+
+.imgcontainer{
+	position: relative;
+
+}
+
+img{
+	margin-left: 50px;
+}
+
+.adventure{
+	font-family: 'Dancing Script', cursive;
+	font-size: 100px;
+	color: yellow;
+	position: absolute;
+	top: 50px;
+	left: 90px;
+}	
+
+.table{
+	font-size:25px;
+	font-family: 'Caveat', cursive;
+	text-align:center;
+
+}
+
+.trainName{
+	text-align: center;
+}
+
+.trainD{
+	text-align: center;
+}
+
+.trainF{
+	text-align: center;
+}
+.trainA{
+	text-align: center;
+}
+.trainM{
+	text-align: center;
+}
